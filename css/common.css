@@ -1,0 +1,45 @@
+.DMY {
+    border: 0px !important;
+}
+.table1 .table2 {
+    border: 1px solid gray;
+    font-size: 100%;
+}
+.table2 td {
+    border: 1px solid gray;
+    text-align: center;
+    width: 40px;
+    height: 40px;
+}
+.table3 {
+    font-size: 50%;
+}
+/* .table2 {
+    border: 1px solid gray;
+    font-size: 100%;
+}
+.table2 th, .table2 td {
+    border: 1px solid gray;
+    text-align: center;
+    width: 30px;
+    height: 30px;
+}
+.table2 th {
+    background-color: #ccf;
+}
+ */
+.push {
+    background-color : #0F0;
+}
+.safe {
+    background-color : #00F;
+}
+.err {
+    background-color : #F00;
+}
+#test {
+    display: none;
+}
+img {
+    width: 15px;
+}
